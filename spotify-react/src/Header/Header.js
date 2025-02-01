@@ -1,8 +1,8 @@
 import React from "react";
 import './Header.css';
-import smallRight from './spotify-react/src/assets/icons/small-right.png';
-import smallLeft from './spotify-react/src/assets/icons/small-left.png';
-import search  from './spotify-react/src/assets/icons/search.png';
+import smallRight from '../src/assets/icons/small-right.png';
+import smallLeft from '../src/assets/icons/small-left.png';
+import search  from '../src/assets/icons/search.png';
 
 const Header = () => {
   return(
